@@ -3,10 +3,10 @@ If resindrake.net leads here, my usual website is currently down because my serv
 
 ### Contact Details
 * Discord: Resin#0554
-* Steam: [https://steamcommunity.com/id/ResinDrake/](ResinDrake)
-* FurAffinity: [https://www.furaffinity.net/user/rubberbutt](rubberbutt)
-* Twitter: [https://twitter.com/ResinDrake](@ResinDrake)
-* Email: [mailto:resin@resindrake.net](resin@resindrake.net)
+* Steam: [ResinDrake](https://steamcommunity.com/id/ResinDrake/)
+* FurAffinity: [rubberbutt](https://www.furaffinity.net/user/rubberbutt)
+* Twitter: [@ResinDrake](https://twitter.com/ResinDrake)
+* Email: [resin@resindrake.net](mailto:resin@resindrake.net)
 
 ### Refsheet: 
 ![Refsheet](/resin_toylike_seamless.png)
