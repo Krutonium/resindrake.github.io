@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Matrix public key fingerprints for MXID @resin:resindrake.net
+Last updated: 2019-12-01
+
+Riot Native @ archlenovo:
+	ID: VRXQLTQSVY
+	FP: gq93 NBnZ uHF+ EGlo QqJ8 CKOW d9Ry X/uY Bq+R bRjO h14
+
+Riot Native @ resindrake:
+	ID: COJPAEPCRB
+	FP: +hlu BagF qUId Z50x ZqXR fzW7 nCiW +7bI d4up eDCU ySM
+
+Riot iOS @ iPhone:
+	ID: NECUCMBBZK
+	FP: bEG+ OOSN GOyE 4eaV empv FJOf xJus DZBh TLGv pDyN kQs
+
+Weechat @ resindrakenet:
+	ID: ZXEFUFPXBN
+	FP: Mu1T zQip xjAc gH6T vSDz O56/ vjYc JZhW 0S8Z AOUo e0w
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEZGLIiJlz10dVdLtwYNshVR5cnG8FAl3jUsQACgkQYNshVR5c
+nG8hqggAkyGQmAS/p64RWyD6NXmUEBlqEAn/rLO2KKls8S72zuACJl8X3rsfXWdf
+5qCrK1IqttUJ1ThGI32aw9AnmIwbXru3fDGMDcQ+uARkTuhAcLqW+wdSPdM5Gp8K
+rbO+h3ZdcBv2FDkqKRfg2Td3QUuslqrYFscSOJO7D2TqQemlXZeqHZ6tI0UBEoLg
+4nPyzWwRMxTaGA3GUgBZcuz/IjzeZ0sU+IvTF4dJtBYHLCU01KnuO9az1HkENVP/
+sSJlFeEZBTUmBcf0ayYayBDlZn30m2J7Y11ZGe0bSHx5rg5qZgYibo3zHrjxkCCD
+qsA/VZwP8Owoq8dLeoc8NLHHRjkHfw==
+=+Qjd
+-----END PGP SIGNATURE-----

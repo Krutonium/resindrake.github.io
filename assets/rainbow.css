@@ -1,0 +1,178 @@
+@keyframes rainbow-bg {
+  0% {
+    /* red */
+    background: #BF616A;
+  }
+  14% {
+    /* orange */
+    background: #e0ae4a;
+  }
+  28% {
+    /* yellow */
+    background: #EBCB8B;
+  }
+  42% {
+    /* green */
+    background: #A3BE8C;
+  }
+  57% {
+    /* cyan */
+    background: #88C0D0;
+  }
+  71% {
+    /* blue */
+    background: #81A1C1;
+  }
+  85% {
+    /* purple */
+    background: #B48EAD;
+  }
+  100% {
+    /* red */
+    background: #BF616A;
+  }
+}
+@keyframes rainbow-border {
+  0% {
+    /* red */
+    border-color: #BF616A;
+  }
+  14% {
+    /* orange */
+    border-color: #e0ae4a;
+  }
+  28% {
+    /* yellow */
+    border-color: #EBCB8B;
+  }
+  42% {
+    /* green */
+    border-color: #A3BE8C;
+  }
+  57% {
+    /* cyan */
+    border-color: #88C0D0;
+  }
+  71% {
+    /* blue */
+    border-color: #81A1C1;
+  }
+  85% {
+    /* purple */
+    border-color: #B48EAD;
+  }
+  100% {
+    /* red */
+    border-color: #BF616A;
+  }
+}
+@keyframes rainbow-fg {
+  0% {
+    /* red */
+    color: #BF616A;
+  }
+  14% {
+    /* orange */
+    color: #e0ae4a;
+  }
+  28% {
+    /* yellow */
+    color: #EBCB8B;
+  }
+  42% {
+    /* green */
+    color: #A3BE8C;
+  }
+  57% {
+    /* cyan */
+    color: #88C0D0;
+  }
+  71% {
+    /* blue */
+    color: #81A1C1;
+  }
+  85% {
+    /* purple */
+    color: #B48EAD;
+  }
+  100% {
+    /* red */
+    color: #BF616A;
+  }
+}
+@keyframes rainbow-fill {
+  0% {
+    /* red */
+    fill: #BF616A;
+  }
+  14% {
+    /* orange */
+    fill: #e0ae4a;
+  }
+  28% {
+    /* yellow */
+    fill: #EBCB8B;
+  }
+  42% {
+    /* green */
+    fill: #A3BE8C;
+  }
+  57% {
+    /* cyan */
+    fill: #88C0D0;
+  }
+  71% {
+    /* blue */
+    fill: #81A1C1;
+  }
+  85% {
+    /* purple */
+    fill: #B48EAD;
+  }
+  100% {
+    /* red */
+    fill: #BF616A;
+  }
+}
+@keyframes rainbow-shadow {
+  0% {
+    /* red */
+    -webkit-filter: drop-shadow(3px 0px 0 #BF616A) drop-shadow(-3px 0 0 #BF616A) drop-shadow(0 3px 0 #BF616A) drop-shadow(0 -3px 0 #BF616A);
+    filter: drop-shadow(3px 0px 0 #BF616A) drop-shadow(-3px 0 0 #BF616A) drop-shadow(0 3px 0 #BF616A) drop-shadow(0 -3px 0 #BF616A);
+  }
+  14% {
+    /* orange */
+    -webkit-filter: drop-shadow(3px 0px 0 #e0ae4a) drop-shadow(-3px 0 0 #e0ae4a) drop-shadow(0 3px 0 #e0ae4a) drop-shadow(0 -3px 0 #e0ae4a);
+    filter: drop-shadow(3px 0px 0 #e0ae4a) drop-shadow(-3px 0 0 #e0ae4a) drop-shadow(0 3px 0 #e0ae4a) drop-shadow(0 -3px 0 #e0ae4a);
+  }
+  28% {
+    /* yellow */
+    -webkit-filter: drop-shadow(3px 0px 0 #EBCB8B) drop-shadow(-3px 0 0 #EBCB8B) drop-shadow(0 3px 0 #EBCB8B) drop-shadow(0 -3px 0 #EBCB8B);
+    filter: drop-shadow(3px 0px 0 #EBCB8B) drop-shadow(-3px 0 0 #EBCB8B) drop-shadow(0 3px 0 #EBCB8B) drop-shadow(0 -3px 0 #EBCB8B);
+  }
+  42% {
+    /* green */
+    -webkit-filter: ddrop-shadow(3px 0px 0 #A3BE8C) drop-shadow(-3px 0 0 #A3BE8C) drop-shadow(0 3px 0 #A3BE8C) drop-shadow(0 -3px 0 #A3BE8C);
+    filter: drop-shadow(3px 0px 0 #A3BE8C) drop-shadow(-3px 0 0 #A3BE8C) drop-shadow(0 3px 0 #A3BE8C) drop-shadow(0 -3px 0 #A3BE8C);
+  }
+  57% {
+    /* cyan */
+    -webkit-filter: drop-shadow(3px 0px 0 #88C0D0) drop-shadow(-3px 0 0 #88C0D0) drop-shadow(0 3px 0 #88C0D0) drop-shadow(0 -3px 0 #88C0D0);
+    filter: drop-shadow(3px 0px 0 #88C0D0) drop-shadow(-3px 0 0 #88C0D0) drop-shadow(0 3px 0 #88C0D0) drop-shadow(0 -3px 0 #88C0D0);
+  }
+  71% {
+    /* blue */
+    -webkit-filter: drop-shadow(3px 0px 0 #81A1C1) drop-shadow(-3px 0 0 #81A1C1) drop-shadow(0 3px 0 #81A1C1) drop-shadow(0 -3px 0 #81A1C1);
+    filter: drop-shadow(3px 0px 0 #81A1C1) drop-shadow(-3px 0 0 #81A1C1) drop-shadow(0 3px 0 #81A1C1) drop-shadow(0 -3px 0 #81A1C1);
+  }
+  85% {
+    /* purple */
+    -webkit-filter: drop-shadow(3px 0px 0 #B48EAD) drop-shadow(-3px 0 0 #B48EAD) drop-shadow(0 3px 0 #B48EAD) drop-shadow(0 -3px 0 #B48EAD);
+    filter: drop-shadow(3px 0px 0 #B48EAD) drop-shadow(-3px 0 0 #B48EAD) drop-shadow(0 3px 0 #B48EAD) drop-shadow(0 -3px 0 #B48EAD);
+  }
+  100% {
+    /* red */
+    -webkit-filter: drop-shadow(3px 0px 0 #BF616A) drop-shadow(-3px 0 0 #BF616A) drop-shadow(0 3px 0 #BF616A) drop-shadow(0 -3px 0 #BF616A);
+    filter: drop-shadow(3px 0px 0 #BF616A) drop-shadow(-3px 0 0 #BF616A) drop-shadow(0 3px 0 #BF616A) drop-shadow(0 -3px 0 #BF616A);
+  }
+}
